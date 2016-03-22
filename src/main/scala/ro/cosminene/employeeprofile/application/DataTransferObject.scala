@@ -1,0 +1,3 @@
+package ro.cosminene.employeeprofile.application
+
+trait DataTransferObject
